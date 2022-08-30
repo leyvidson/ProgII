@@ -13,10 +13,11 @@ namespace ProblemaVeterinaria_1._5
         public int Codigo { get; set; }
         //public Mascota Mascota { get; set; }
 
-        public Cliente(string nom, int sexo)
+        public Cliente(string nom, int sexo, int codigo)
         {
             Nombre = nom;
             Sexo = sexo;
+            Codigo = codigo;
         }
         public Cliente()
         {

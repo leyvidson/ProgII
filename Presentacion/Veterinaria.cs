@@ -99,6 +99,7 @@ namespace ProblemaVeterinaria_1._5
         private void cargarCampos(int i)
         {
             txtNombre.Text = lCLientes[i].Nombre;
+            txtCodigo.Text = lCLientes[i].Codigo.ToString();
             if (lCLientes[i].Sexo == 1)
             {
                 rbMasculino.Checked = true;
@@ -107,6 +108,7 @@ namespace ProblemaVeterinaria_1._5
             {
                 rbFemenino.Checked = true;
             }
+            
 
         }
 

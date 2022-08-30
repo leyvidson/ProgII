@@ -36,16 +36,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnNuevo = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nuevoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.buscarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rbFemenino = new System.Windows.Forms.RadioButton();
             this.rbMasculino = new System.Windows.Forms.RadioButton();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtCodigo = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnGuardar
@@ -60,7 +55,7 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(89, 29);
+            this.txtNombre.Location = new System.Drawing.Point(89, 35);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(100, 20);
             this.txtNombre.TabIndex = 1;
@@ -73,7 +68,7 @@
             // lstClientes
             // 
             this.lstClientes.FormattingEnabled = true;
-            this.lstClientes.Location = new System.Drawing.Point(195, 27);
+            this.lstClientes.Location = new System.Drawing.Point(195, 33);
             this.lstClientes.Name = "lstClientes";
             this.lstClientes.Size = new System.Drawing.Size(226, 121);
             this.lstClientes.TabIndex = 3;
@@ -82,7 +77,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(29, 32);
+            this.label1.Location = new System.Drawing.Point(29, 38);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(44, 13);
             this.label1.TabIndex = 4;
@@ -109,42 +104,10 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.clienteToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(445, 24);
-            this.menuStrip1.TabIndex = 14;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // clienteToolStripMenuItem
-            // 
-            this.clienteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.nuevoToolStripMenuItem,
-            this.buscarToolStripMenuItem});
-            this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
-            this.clienteToolStripMenuItem.Text = "Cliente";
-            // 
-            // nuevoToolStripMenuItem
-            // 
-            this.nuevoToolStripMenuItem.Name = "nuevoToolStripMenuItem";
-            this.nuevoToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
-            this.nuevoToolStripMenuItem.Text = "Nuevo";
-            this.nuevoToolStripMenuItem.Click += new System.EventHandler(this.nuevoToolStripMenuItem_Click);
-            // 
-            // buscarToolStripMenuItem
-            // 
-            this.buscarToolStripMenuItem.Name = "buscarToolStripMenuItem";
-            this.buscarToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
-            this.buscarToolStripMenuItem.Text = "Buscar";
-            // 
             // rbFemenino
             // 
             this.rbFemenino.AutoSize = true;
-            this.rbFemenino.Location = new System.Drawing.Point(102, 88);
+            this.rbFemenino.Location = new System.Drawing.Point(102, 94);
             this.rbFemenino.Name = "rbFemenino";
             this.rbFemenino.Size = new System.Drawing.Size(71, 17);
             this.rbFemenino.TabIndex = 33;
@@ -155,7 +118,7 @@
             // rbMasculino
             // 
             this.rbMasculino.AutoSize = true;
-            this.rbMasculino.Location = new System.Drawing.Point(102, 69);
+            this.rbMasculino.Location = new System.Drawing.Point(102, 75);
             this.rbMasculino.Name = "rbMasculino";
             this.rbMasculino.Size = new System.Drawing.Size(73, 17);
             this.rbMasculino.TabIndex = 32;
@@ -166,23 +129,23 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(42, 73);
+            this.label2.Location = new System.Drawing.Point(42, 79);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(31, 13);
             this.label2.TabIndex = 31;
             this.label2.Text = "Sexo";
             // 
-            // textBox1
+            // txtCodigo
             // 
-            this.textBox1.Location = new System.Drawing.Point(79, 114);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 34;
+            this.txtCodigo.Location = new System.Drawing.Point(79, 120);
+            this.txtCodigo.Name = "txtCodigo";
+            this.txtCodigo.Size = new System.Drawing.Size(100, 20);
+            this.txtCodigo.TabIndex = 34;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(29, 117);
+            this.label3.Location = new System.Drawing.Point(29, 123);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 13);
             this.label3.TabIndex = 35;
@@ -194,23 +157,19 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(445, 369);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtCodigo);
             this.Controls.Add(this.rbFemenino);
             this.Controls.Add(this.rbMasculino);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lstClientes);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.btnGuardar);
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Veterinaria";
             this.Text = "Veterinaria";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -225,14 +184,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem clienteToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem nuevoToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem buscarToolStripMenuItem;
         private System.Windows.Forms.RadioButton rbFemenino;
         private System.Windows.Forms.RadioButton rbMasculino;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.Label label3;
     }
 }
