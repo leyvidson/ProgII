@@ -1,0 +1,37 @@
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe.config
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.AssemblyReference.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Form1.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Properties.Resources.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.exe
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.AltaCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.AssemblyReference.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.SuggestedBindingRedirects.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.AltaCliente.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Properties.Resources.resources
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.GenerateResource.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.CoreCompileInputs.cache
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe.config
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Cosas del HDD\TODO UTN\Proyectos UTN\GITGUB\Prog2-main\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Veterinaria.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe.config
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.exe
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\bin\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.AssemblyReference.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.AltaCliente.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Presentacion.Base.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Veterinaria.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Properties.Resources.resources
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.exe
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.pdb
