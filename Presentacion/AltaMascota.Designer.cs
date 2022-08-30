@@ -96,6 +96,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "Guardar";
             this.button1.UseVisualStyleBackColor = true;
+
             // 
             // button2
             // 

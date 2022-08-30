@@ -82,7 +82,7 @@
             // 
             // btnGrabar
             // 
-            this.btnGrabar.ForeColor = System.Drawing.Color.White;
+            this.btnGrabar.ForeColor = System.Drawing.Color.Black;
             this.btnGrabar.Location = new System.Drawing.Point(46, 278);
             this.btnGrabar.Name = "btnGrabar";
             this.btnGrabar.Size = new System.Drawing.Size(75, 23);
@@ -93,6 +93,7 @@
             // 
             // btnVolver
             // 
+            this.btnVolver.ForeColor = System.Drawing.Color.Black;
             this.btnVolver.Location = new System.Drawing.Point(320, 278);
             this.btnVolver.Name = "btnVolver";
             this.btnVolver.Size = new System.Drawing.Size(75, 23);
@@ -140,6 +141,15 @@
             this.Name = "AltaCliente";
             this.Text = "AltaCliente";
             this.Load += new System.EventHandler(this.AltaCliente_Load);
+            this.Controls.SetChildIndex(this.txtNombre, 0);
+            this.Controls.SetChildIndex(this.label1, 0);
+            this.Controls.SetChildIndex(this.label2, 0);
+            this.Controls.SetChildIndex(this.label3, 0);
+            this.Controls.SetChildIndex(this.txtCodigo, 0);
+            this.Controls.SetChildIndex(this.btnGrabar, 0);
+            this.Controls.SetChildIndex(this.btnVolver, 0);
+            this.Controls.SetChildIndex(this.rbMasculino, 0);
+            this.Controls.SetChildIndex(this.rbFemenino, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
 
