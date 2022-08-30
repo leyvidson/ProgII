@@ -11,14 +11,7 @@
         /// Limpiar los recursos que se estén usando.
         /// </summary>
         /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
+
 
         #region Código generado por el Diseñador de Windows Forms
 
@@ -41,6 +34,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtCodigo = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnAltaMascota = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGuardar
@@ -92,6 +86,7 @@
             this.btnNuevo.TabIndex = 12;
             this.btnNuevo.Text = "Nuevo";
             this.btnNuevo.UseVisualStyleBackColor = true;
+            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
             // 
             // button1
             // 
@@ -137,7 +132,7 @@
             // 
             // txtCodigo
             // 
-            this.txtCodigo.Location = new System.Drawing.Point(79, 120);
+            this.txtCodigo.Location = new System.Drawing.Point(89, 123);
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(100, 20);
             this.txtCodigo.TabIndex = 34;
@@ -145,17 +140,29 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(29, 123);
+            this.label3.Location = new System.Drawing.Point(29, 126);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 13);
             this.label3.TabIndex = 35;
             this.label3.Text = "Codigo";
+            // 
+            // btnAltaMascota
+            // 
+            this.btnAltaMascota.ForeColor = System.Drawing.Color.Black;
+            this.btnAltaMascota.Location = new System.Drawing.Point(89, 159);
+            this.btnAltaMascota.Name = "btnAltaMascota";
+            this.btnAltaMascota.Size = new System.Drawing.Size(100, 23);
+            this.btnAltaMascota.TabIndex = 36;
+            this.btnAltaMascota.Text = "Agregar Mascota";
+            this.btnAltaMascota.UseVisualStyleBackColor = true;
+            this.btnAltaMascota.Click += new System.EventHandler(this.button2_Click);
             // 
             // Veterinaria
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(445, 369);
+            this.Controls.Add(this.btnAltaMascota);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtCodigo);
             this.Controls.Add(this.rbFemenino);
@@ -170,6 +177,18 @@
             this.Name = "Veterinaria";
             this.Text = "Veterinaria";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Controls.SetChildIndex(this.btnGuardar, 0);
+            this.Controls.SetChildIndex(this.txtNombre, 0);
+            this.Controls.SetChildIndex(this.lstClientes, 0);
+            this.Controls.SetChildIndex(this.label1, 0);
+            this.Controls.SetChildIndex(this.btnNuevo, 0);
+            this.Controls.SetChildIndex(this.button1, 0);
+            this.Controls.SetChildIndex(this.label2, 0);
+            this.Controls.SetChildIndex(this.rbMasculino, 0);
+            this.Controls.SetChildIndex(this.rbFemenino, 0);
+            this.Controls.SetChildIndex(this.txtCodigo, 0);
+            this.Controls.SetChildIndex(this.label3, 0);
+            this.Controls.SetChildIndex(this.btnAltaMascota, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -189,6 +208,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtCodigo;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnAltaMascota;
     }
 }
 

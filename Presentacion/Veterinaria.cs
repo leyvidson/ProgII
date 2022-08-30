@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProblemaVeterinaria_1._5.Presentacion;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -112,6 +113,16 @@ namespace ProblemaVeterinaria_1._5
 
         }
 
-        
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            AltaCliente a = new AltaCliente();
+            a.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AltaMascota a = new AltaMascota();
+            a.Show();
+        }
     }
 }

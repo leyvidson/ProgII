@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProblemaVeterinaria_1._5.Borrador
+{
+    class Borrador
+    {
+    -consultar porque el namespace de Veterinaria, no figura .Presentacion. Por eso en AltaMascota usamos un using Veterinaria, sino no detectaba la relacion.
+    -consultar porque en form base, la toolbar esta como public pero en los demas forms no deja editarlo.
+    }
+}

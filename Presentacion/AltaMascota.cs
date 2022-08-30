@@ -16,5 +16,11 @@ namespace ProblemaVeterinaria_1._5.Presentacion
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+        }
     }
 }

@@ -35,3 +35,4 @@ C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5
 C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.csproj.CoreCompileInputs.cache
 C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.exe
 C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1.5.pdb
+C:\Users\Casa\source\repos\ProblemaVeterinaria_1.5\Prog2\ProblemaVeterinaria_1.5\obj\Debug\ProblemaVeterinaria_1._5.Presentacion.AltaMascota.resources
