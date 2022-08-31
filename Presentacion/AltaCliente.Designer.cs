@@ -94,7 +94,7 @@
             // btnVolver
             // 
             this.btnVolver.ForeColor = System.Drawing.Color.Black;
-            this.btnVolver.Location = new System.Drawing.Point(320, 278);
+            this.btnVolver.Location = new System.Drawing.Point(209, 278);
             this.btnVolver.Name = "btnVolver";
             this.btnVolver.Size = new System.Drawing.Size(75, 23);
             this.btnVolver.TabIndex = 28;
@@ -128,7 +128,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(441, 317);
+            this.ClientSize = new System.Drawing.Size(327, 322);
             this.Controls.Add(this.rbFemenino);
             this.Controls.Add(this.rbMasculino);
             this.Controls.Add(this.btnVolver);

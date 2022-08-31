@@ -149,9 +149,9 @@
             // btnAltaMascota
             // 
             this.btnAltaMascota.ForeColor = System.Drawing.Color.Black;
-            this.btnAltaMascota.Location = new System.Drawing.Point(89, 159);
+            this.btnAltaMascota.Location = new System.Drawing.Point(80, 159);
             this.btnAltaMascota.Name = "btnAltaMascota";
-            this.btnAltaMascota.Size = new System.Drawing.Size(100, 23);
+            this.btnAltaMascota.Size = new System.Drawing.Size(109, 23);
             this.btnAltaMascota.TabIndex = 36;
             this.btnAltaMascota.Text = "Agregar Mascota";
             this.btnAltaMascota.UseVisualStyleBackColor = true;

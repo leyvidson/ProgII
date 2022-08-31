@@ -96,12 +96,11 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "Guardar";
             this.button1.UseVisualStyleBackColor = true;
-
             // 
             // button2
             // 
             this.button2.ForeColor = System.Drawing.Color.Black;
-            this.button2.Location = new System.Drawing.Point(208, 290);
+            this.button2.Location = new System.Drawing.Point(221, 290);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 8;
@@ -124,6 +123,7 @@
             this.Controls.Add(this.txtNombreMascota);
             this.Name = "AltaMascota";
             this.Text = "AltaMascota";
+            this.Controls.SetChildIndex(this.btnSalir, 0);
             this.Controls.SetChildIndex(this.txtNombreMascota, 0);
             this.Controls.SetChildIndex(this.txtEdadMascota, 0);
             this.Controls.SetChildIndex(this.cbTipoMascota, 0);

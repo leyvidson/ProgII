@@ -45,6 +45,7 @@ namespace ProblemaVeterinaria_1._5
                 {
                     c.Sexo = 2;
                 }
+
                       
                 //string insert = "insert into clientes(nombre,sexo,codigo" +
                 //    "values (@nombre,@sexo,@codigo))";
